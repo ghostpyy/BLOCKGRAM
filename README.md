@@ -10,6 +10,9 @@
 An interactive and dynamic educational programming interface that simplifies complex structures into simple sentences for better interpretability & understanding.
 
 ![gif](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/blockgram.gif)
+![ui](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/interface.png)
+![workspace](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/workspace.png)
+![compile](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/compile.png)
 
 ## Inspiration
 Inspired by [Scratch Programming](https://scratch.mit.edu/developers) and tutoring young kids coding, words and letters are too dull and boring for them. Having a tool to let them visualize makes coding interesting and easily understandable.
