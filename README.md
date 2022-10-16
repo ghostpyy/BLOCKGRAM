@@ -1,4 +1,4 @@
-# <p align = 'center'> BLOCKGRAM </p>
+![logo](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/Screen%20Shot%202022-10-16%20at%2012.50.09%20PM.png)
 
 ## Team
 - Sunho Kim [@sunhokim](https://github.com/sunhokim) : Team Lead, Frontend, Backend, UI/UX Design, Database
@@ -8,6 +8,8 @@
 
 ## About
 An interactive and dynamic educational programming interface that simplifies complex structures into simple sentences for better interpretability & understanding.
+
+![gif](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/blockgram.gif)
 
 ## Inspiration
 Inspired by [Scratch Programming](https://scratch.mit.edu/developers) and tutoring young kids coding, words and letters are too dull and boring for them. Having a tool to let them visualize makes coding interesting and easily understandable.
