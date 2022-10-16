@@ -15,7 +15,11 @@ function lowerToCode(block: any): any {
     case "identifier":
       return block.name.toString();
     case "varDeclare":
-      return `int ${block.varName} = ${lowerToCode(block.value)};`
+      return `${lowerToCode(block.varType)} ${block.varName} = ${lowerToCode(block.value)};`
+    case "pointerSet":
+      return `*${lowerToCode(block.left)} = ${lowerToCode(block.right)};`;
+    case "addr":
+      return `&${lowerToCode(block.value)}`;
     case "assign":
       return `${lowerToCode(block.left)} = ${lowerToCode(block.right)};`;
     case "if":
@@ -30,6 +34,8 @@ function lowerToCode(block: any): any {
        + '\n}';
     case "intType":
       return 'int';
+    case "intPtrType":
+      return 'int*';
     case "arg":
       return `${lowerToCode(block.argType)} ${block.argName}`;    
     }

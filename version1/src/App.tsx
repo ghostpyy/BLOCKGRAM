@@ -146,7 +146,7 @@ function App() {
   const share = () => {
     const id = Math.floor(Math.random()*100000000).toString();
     fetch("http://localhost:1001/insert", {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({'id': id, 'code': source})});
-    console.log(id);
+    alert("http://localhost:3000/?id="+ id);
   };
   const compile = () => {
     const data = qs.stringify({
