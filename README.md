@@ -3,7 +3,7 @@
 ## Team
 - Sunho Kim [@sunhokim](https://github.com/sunhokim) : Team Lead, Frontend, Backend, UI/UX Design, Database
 - Brandon Hung [@qilin2](https://www.github.com/): Co-Lead, Team Manager, Frontend, UI/UX Design
-- Wei Quan Lai [@LaiWeiQuan](https://github.com/LaiWeiQuan) & Eren Saglam [@ghostpyy](https://github.com/ghostpyy): Team Members, CockroachDB Database, Python Compiler
+- Wei Quan Lai [@LaiWeiQuan](https://github.com/LaiWeiQuan) & Eren Saglam [@ghostpyy](https://github.com/ghostpyy): Team Members, CockroachDB Database, Backend, & Python Compiler
 
 
 ## About
