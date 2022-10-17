@@ -4,7 +4,7 @@
 - Sunho Kim [@sunhokim](https://github.com/sunhokim) : Frontend, Backend, UI/UX Design, & Database
 - Brandon Hung [@qilin2](https://www.github.com/): Frontend, UI/UX Design
 - Wei Quan Lai [@LaiWeiQuan](https://github.com/LaiWeiQuan) & Eren Saglam [@ghostpyy](https://github.com/ghostpyy): CockroachDB Database, Backend, & Python Compiler
-
+-Merlin Ho [@clairvoyage](https://github.com/clairvoyage) : UI/UX Design
 
 ## About
 An interactive and dynamic educational programming interface that simplifies complex structures into simple sentences for better interpretability & understanding entirely built from scratch.
