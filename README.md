@@ -7,7 +7,7 @@
 - Merlin Ho [@clairvoyage](https://github.com/clairvoyage) : UI/UX Design
 
 ## About
-An interactive and dynamic educational programming interface that simplifies complex structures into simple sentences for better interpretability & understanding entirely built from scratch.
+An interactive and dynamic educational programming interface that simplifies complex structures into simple sentences for better interpretability & understanding. This app is entirely built from scratch.
 
 ![gif](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/blockgram.gif)
 
