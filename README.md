@@ -7,7 +7,7 @@
 
 
 ## About
-An interactive and dynamic educational programming interface that simplifies complex structures into simple sentences for better interpretability & understanding.
+An interactive and dynamic educational programming interface that simplifies complex structures into simple sentences for better interpretability & understanding entirely built from scratch.
 
 ![gif](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/blockgram.gif)
 
