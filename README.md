@@ -1,9 +1,9 @@
 ![logo](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/Screen%20Shot%202022-10-16%20at%2012.50.09%20PM.png)
 
 ## Team
-- Sunho Kim [@sunhokim](https://github.com/sunhokim) : Team Lead, Frontend, Backend, UI/UX Design, Database
-- Brandon Hung [@qilin2](https://www.github.com/): Co-Lead, Team Manager, Frontend, UI/UX Design
-- Wei Quan Lai [@LaiWeiQuan](https://github.com/LaiWeiQuan) & Eren Saglam [@ghostpyy](https://github.com/ghostpyy): Team Members, CockroachDB Database, Backend, & Python Compiler
+- Sunho Kim [@sunhokim](https://github.com/sunhokim) : Frontend, Backend, UI/UX Design, & Database
+- Brandon Hung [@qilin2](https://www.github.com/): Frontend, UI/UX Design
+- Wei Quan Lai [@LaiWeiQuan](https://github.com/LaiWeiQuan) & Eren Saglam [@ghostpyy](https://github.com/ghostpyy): CockroachDB Database, Backend, & Python Compiler
 
 
 ## About
@@ -32,3 +32,4 @@ CParser written in javascript to get C AST and implemented a DFS style conversio
 - Database
 
 THANK YOU ! :)
+[CalHacks 9.0 Submission](https://devpost.com/submit-to/16501-cal-hacks-9-0/manage/submissions)
