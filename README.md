@@ -1,13 +1,15 @@
 ![logo](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/Screen%20Shot%202022-10-16%20at%2012.50.09%20PM.png)
 
 ## Team
-- Sunho Kim [@sunho](https://github.com/sunho) : Frontend, Backend, UI/UX Design, & Database
-- Brandon Hung [@qilin2](https://www.github.com/qilin2): Frontend, UI/UX Design
-- Wei Quan Lai [@LaiWeiQuan](https://github.com/LaiWeiQuan) & Eren Saglam [@ghostpyy](https://github.com/ghostpyy): CockroachDB Database, Backend, & Python Compiler
+- Brandon Hung [@qilin2](https://www.github.com/qilin2): Team Lead, Team Manager, Frontend, UI/UX Design
+- Sunho Kim [@sunho](https://github.com/sunho) : Co-Lead, Frontend, Backend, UI/UX Design, Database
+- Wei Quan Lai [@LaiWeiQuan](https://github.com/LaiWeiQuan) & Eren Saglam [@ghostpyy](https://github.com/ghostpyy): CockroachDB Database.
 - Merlin Ho [@clairvoyage](https://github.com/clairvoyage) : UI/UX Design
 
 ## About
 An interactive and dynamic educational programming interface that simplifies complex structures into simple sentences for better interpretability & understanding. This app is entirely built from scratch.
+
+[CalHacks 9.0 Submission](https://devpost.com/submit-to/16501-cal-hacks-9-0/manage/submissions)
 
 ![gif](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/blockgram.gif)
 
@@ -32,4 +34,4 @@ CParser written in javascript to get C AST and implemented a DFS style conversio
 - Database
 
 THANK YOU ! :)
-[CalHacks 9.0 Submission](https://devpost.com/submit-to/16501-cal-hacks-9-0/manage/submissions)
+
