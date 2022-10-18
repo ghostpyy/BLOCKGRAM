@@ -1,8 +1,8 @@
 ![logo](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/Screen%20Shot%202022-10-16%20at%2012.50.09%20PM.png)
 
 ## Team
-- Sunho Kim [@sunhokim](https://github.com/sunhokim) : Frontend, Backend, UI/UX Design, & Database
-- Brandon Hung [@qilin2](https://www.github.com/): Frontend, UI/UX Design
+- Sunho Kim [@sunho](https://github.com/sunho) : Frontend, Backend, UI/UX Design, & Database
+- Brandon Hung [@qilin2](https://www.github.com/qilin2): Frontend, UI/UX Design
 - Wei Quan Lai [@LaiWeiQuan](https://github.com/LaiWeiQuan) & Eren Saglam [@ghostpyy](https://github.com/ghostpyy): CockroachDB Database, Backend, & Python Compiler
 - Merlin Ho [@clairvoyage](https://github.com/clairvoyage) : UI/UX Design
 
