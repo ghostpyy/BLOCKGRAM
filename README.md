@@ -29,6 +29,13 @@ CParser written in javascript to get C AST and implemented a DFS style conversio
 
 ![compile](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/compile.png)
 
+
+## How to Run
+- Download the .zip file or use git clone.
+- run npm install
+- run npm start
+
+
 ## Built with
 - ReactJS
 - Database
