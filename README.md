@@ -31,9 +31,9 @@ CParser written in javascript to get C AST and implemented a DFS style conversio
 
 
 ## How to Run
-- Download the .zip file or use git clone.
-- run npm install
-- run npm start
+1. Download the .zip file or use git clone.
+2. run npm install
+3. run npm start
 
 
 ## Built with
