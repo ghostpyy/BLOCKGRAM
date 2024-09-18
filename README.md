@@ -9,7 +9,7 @@
 ## About
 An interactive and dynamic educational programming interface that simplifies complex structures into simple sentences for better interpretability & understanding. This app is entirely built from scratch.
 
-[CalHacks 9.0 Submission]([https://devpost.com/submit-to/16501-cal-hacks-9-0/manage/submissions](https://devpost.com/software/blockgram)
+[CalHacks 9.0 Submission]([https://devpost.com/submit-to/16501-cal-hacks-9-0/manage/submissions])
 
 ![gif](https://github.com/qilin2/BLOCKGRAM/blob/main/visuals/blockgram.gif)
 
